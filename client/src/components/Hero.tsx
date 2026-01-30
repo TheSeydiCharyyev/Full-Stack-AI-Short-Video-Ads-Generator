@@ -51,7 +51,7 @@ export default function Hero() {
                                     ))}
                                 </div>
                                 <span className="text-xs text-gray-200/90">
-                                    Trusted by brands & founders worldwide
+                                    Trusted by 10,000 + creators
                                 </span>
                             </motion.a>
 
