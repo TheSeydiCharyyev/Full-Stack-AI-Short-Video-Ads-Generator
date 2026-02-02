@@ -50,15 +50,15 @@ export const plansData = [
     },
     {
         id: 'ultra',
-        name: 'Scale',
-        price: '$3,999',
-        desc: 'For brands ready to scale fast.',
-        credits: 'Custom',
+        name: 'Ultra',
+        price: '$99',
+        desc: 'Scale acrros teams and agencies.',
+        credits: 300,
         features: [
-            'Everything in Growth',
-            'Dedicated project manager',
-            'Ongoing optimization',
-            'Marketing & growth support',
+            '300 Credits',
+            'FHD',
+            'No watermark',
+            'Fast generation speed',
             'Chat + Email support'
         ]
     }
