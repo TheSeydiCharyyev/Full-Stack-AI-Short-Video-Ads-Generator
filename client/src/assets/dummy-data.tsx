@@ -3,8 +3,8 @@ import { UploadIcon, VideoIcon, ZapIcon } from 'lucide-react';
 export const featuresData = [
     {
         icon: <UploadIcon className="w-6 h-6" />,
-        title: 'Discovery & Planning',
-        desc: 'We understand your goals, audience and challenges to craft a clear, actionable strategy.'
+        title: 'Smart Upload',
+        desc: 'Drag & drop your assets. We auto-optimize formats and sizes.'
     },
     {
         icon: <ZapIcon className="w-6 h-6" />,

@@ -11,8 +11,8 @@ export default function Features() {
 
                 <Title
                     title="Features"
-                    heading="Everything your brand needs to grow"
-                    description="From strategy to execution, we help businesses build strong digital products and meaningful customer experiences."
+                    heading="Built for modern brands"
+                    description="our AI instantly produces professional lifestyle imagery and short-form videos optimized for commercials & Reels"
                 />
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
