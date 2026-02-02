@@ -79,8 +79,8 @@ export const faqData = [
         answer: 'Yes - you can cancel from your dashboard. You will retain access through the end of your billing period.'
     },
     {
-        question: 'Do you offer ongoing support after launch?',
-        answer: 'Yes. We offer maintenance, optimization and growth support packages to ensure your product continues to perform and evolve.'
+        question: 'What input formats do you support?',
+        answer: 'We accept JPG, PNG and WEBP. Outputs are high-resolution PNGs and MP4 optimized for social platforms.'
     }
 ];
 
