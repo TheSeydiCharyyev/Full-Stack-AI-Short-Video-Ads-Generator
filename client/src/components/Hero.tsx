@@ -19,11 +19,11 @@ export default function Hero() {
     ];
 
     const trustedLogosText = [
-        'Startups',
-        'Scale-ups',
-        'Founders',
-        'Global teams',
-        'Creative brands'
+        'Adobe',
+        'Figma',
+        'Canva',
+        'Spotify',
+        'Webflow'
     ];
 
     return (
