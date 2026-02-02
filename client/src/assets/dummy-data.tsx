@@ -8,8 +8,8 @@ export const featuresData = [
     },
     {
         icon: <ZapIcon className="w-6 h-6" />,
-        title: 'Design & Development',
-        desc: 'High-quality design and scalable development focused on performance and usability.'
+        title: 'Instant Generation',
+        desc: 'Optimized models deliver output in seconds with great fidelity.'
     },
     {
         icon: <VideoIcon className="w-6 h-6" />,
