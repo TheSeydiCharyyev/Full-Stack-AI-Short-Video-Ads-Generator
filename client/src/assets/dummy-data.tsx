@@ -13,8 +13,8 @@ export const featuresData = [
     },
     {
         icon: <VideoIcon className="w-6 h-6" />,
-        title: 'Launch & Growth',
-        desc: 'We launch, optimize and continuously improve to drive measurable business growth.'
+        title: 'Video Synthesis',
+        desc: 'Bring product shots to life with short-form, social-ready videos.'
     }
 ];
 
