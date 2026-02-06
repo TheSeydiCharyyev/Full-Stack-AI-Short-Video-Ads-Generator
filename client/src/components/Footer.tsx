@@ -1,6 +1,6 @@
 import { footerLinks } from '../assets/dummy-data';
 import { motion } from 'framer-motion';
-
+import { assets } from '../assets/assets';
 export default function Footer() {
 
     return (
@@ -47,10 +47,8 @@ export default function Footer() {
 
                 <p className="py-4 text-center text-sm text-gray-400">
                     © {new Date().getFullYear()} {' '}
-                    
-                        GreatStack
-                    </a>
-                    . All rights reserved.
+
+                    GreatStack. All rights reserved.
                 </p>
             </div>
         </motion.footer>
