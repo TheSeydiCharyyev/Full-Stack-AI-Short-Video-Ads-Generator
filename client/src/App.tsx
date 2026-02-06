@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import SoftBackdrop from './components/SoftBackdrop';
 import Footer from './components/Footer';
 import LenisScroll from './components/lenis';
-import { Routes } from 'react-router';
+import { Route, Routes } from 'react-router';
 
 function App() {
 	return (
@@ -13,6 +13,7 @@ function App() {
 			<Navbar />
 
 			<Routes>
+				<Route
 				<Home />
 			</Routes>
 
